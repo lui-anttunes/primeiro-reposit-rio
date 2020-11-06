@@ -1,0 +1,217 @@
+body{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.header{
+    background-color:#423e38da;
+    margin: auto;
+    min-height: 100px;
+    padding-top: 20px;
+
+}
+
+.header .title-header h1{
+    color: white;
+    float: left;
+}
+
+.header a{
+    text-decoration: none;
+    color: 	white;
+    font-size: 18px;
+}
+
+.header li{
+    float: left;
+    display: inline;
+    margin-right: 30px;
+}
+
+.showcase .h1{
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.nav .current{
+ color: #000;
+}
+
+.nav{
+    float: right;
+    margin-top:15px;
+}
+
+.logo{
+    float: left;
+    max-width: 50px;
+    max-height:50px ;
+    margin-top: 10px;
+}
+
+#titulo{
+    color: rgb(0, 0, 0);
+}
+
+.nav .currentNome{
+    font-size: 19px;
+}
+
+.showcase{    
+    text-align: center;
+    background: url(../img/fundo3.jpg) no-repeat;
+    min-height: 1010px;
+    background-size: cover;
+    border: 2px solid darkgray;
+}
+
+.showcase .box1{
+    float: left;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.452);
+    height: 400px;
+    width: 30%;
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+
+.showcase .box2{
+    float: right;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.452);
+    height: 400px;
+    width: 30%;
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+    border-radius: 5px;
+}
+
+
+.new {
+    background-color: #423e38da;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container .mg{
+    float: left;
+    padding: 35px;
+}
+
+.container .icons{
+    float: right;
+    padding: 20px;
+}
+
+.showcase .form{
+    background-color: #423e38c4;
+    width: 30%;
+    min-height: 70%;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 10px;
+}
+
+
+.showcase .h2{
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+}
+
+.showcase .input{
+    padding: 7px;
+    text-align: center;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.showcase .button{
+   border-radius: 5px;
+   border: none;
+   margin: 20px;
+   padding: 10px;
+   min-width: 5%;
+}
+
+.showcase .salgadas{
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    background-color: #423e38c4;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+    border-radius: 5px;
+}
+
+.showcase .doces{
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    background-color: #423e38c4;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+    margin-right: 20%;
+    border-radius: 5px;
+}
+
+.showcase a{
+    text-decoration: none;
+    color: white;
+   
+} 
+
+.showcase li{
+    font-size: 19px;
+    padding: 3px;
+}
+
+.showcase .maior{
+    font-size: 19px;
+    padding: 20px;
+}
+
+.showcase .img{
+    height: 250px;
+}
+.showcase .receita{
+    font-size: 18px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    background-color: #423e38a6;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+
